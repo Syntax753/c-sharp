@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{3CBB837F-F028-4FB1-8474-4CA3B6274E39}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Udemy-Webapp/Properties/launchSettings.json">
+    <Files>
+      <File FileName="Udemy-Webapp/Pages/Index.cshtml.cs" Line="21" Column="1" />
+      <File FileName="Udemy-Webapp/Pages/Index.cshtml" Line="11" Column="1" />
+      <File FileName="Udemy-Webapp/Properties/launchSettings.json" Line="27" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Udemy-Webapp" expanded="True">
+            <Node name="Udemy-Webapp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Udemy-Webapp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

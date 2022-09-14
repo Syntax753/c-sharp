@@ -1,0 +1,7 @@
+/Users/syntax/Projects/Udemy-Webapp/Udemy-Webapp/obj/Release/net6.0/PubTmp/Out/Udemy-Webapp
+/Users/syntax/Projects/Udemy-Webapp/Udemy-Webapp/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/syntax/Projects/Udemy-Webapp/Udemy-Webapp/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/syntax/Projects/Udemy-Webapp/Udemy-Webapp/obj/Release/net6.0/PubTmp/Out/Udemy-Webapp.dll
+/Users/syntax/Projects/Udemy-Webapp/Udemy-Webapp/obj/Release/net6.0/PubTmp/Out/Udemy-Webapp.deps.json
+/Users/syntax/Projects/Udemy-Webapp/Udemy-Webapp/obj/Release/net6.0/PubTmp/Out/Udemy-Webapp.runtimeconfig.json
+/Users/syntax/Projects/Udemy-Webapp/Udemy-Webapp/obj/Release/net6.0/PubTmp/Out/Udemy-Webapp.pdb
